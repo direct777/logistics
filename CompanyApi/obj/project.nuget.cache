@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "frDTI14cYqDM1wZ5JHm49Qj9ZotZicn/ygqyfIBl1WDQ5aO3+uF7MO6a/m3Zkm2hYQuyOiZ6Kbl+AQwC81VwnQ==",
+  "dgSpecHash": "bmKJwSHNXRgcyvpZmHoMNtxbbcl6veF4Vqz8Px2ee1tnNj/+1aKYjchzAMJ2XLiNLdJQ7jA/kW6UNSg4l8Brnw==",
   "success": true,
-  "projectFilePath": "C:\\proj\\c#\\logistics\\companyapi\\CompanyApi.csproj",
+  "projectFilePath": "C:\\proj\\c#\\logistics\\CompanyApi\\CompanyApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\newal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\newal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",

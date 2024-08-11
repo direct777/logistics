@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proj\\c#\\logistics\\companyapi\\CompanyApi.csproj": {}
+    "C:\\proj\\c#\\logistics\\CompanyApi\\CompanyApi.csproj": {}
   },
   "projects": {
-    "C:\\proj\\c#\\logistics\\companyapi\\CompanyApi.csproj": {
+    "C:\\proj\\c#\\logistics\\CompanyApi\\CompanyApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proj\\c#\\logistics\\companyapi\\CompanyApi.csproj",
+        "projectUniqueName": "C:\\proj\\c#\\logistics\\CompanyApi\\CompanyApi.csproj",
         "projectName": "CompanyApi",
-        "projectPath": "C:\\proj\\c#\\logistics\\companyapi\\CompanyApi.csproj",
+        "projectPath": "C:\\proj\\c#\\logistics\\CompanyApi\\CompanyApi.csproj",
         "packagesPath": "C:\\Users\\newal\\.nuget\\packages\\",
-        "outputPath": "C:\\proj\\c#\\logistics\\companyapi\\obj\\",
+        "outputPath": "C:\\proj\\c#\\logistics\\CompanyApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
