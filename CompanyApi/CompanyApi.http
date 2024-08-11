@@ -1,0 +1,9 @@
+@CompanyApi_HostAddress = http://localhost:5000
+
+### Get All Employees
+GET {{CompanyApi_HostAddress}}/employees/
+Accept: application/json
+
+### Get All Vehicles
+GET {{CompanyApi_HostAddress}}/vehicles/
+Accept: application/json
